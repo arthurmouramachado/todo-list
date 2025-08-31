@@ -100,12 +100,12 @@ cd listadetarefas
 
 ---
 
-## 👨‍💻 Desenvolvedor
-**Nome:** Ricardo TecPro  
-🔗 [GitHub](https://github.com/ricardotecpro)  
+## 👨‍💻 Autor:
+**Nome:** Arthur Moura Machado
 
+**Curso/Disciplina: Linguagem de Programação
+
+**Data:** 30/08/2025
 ---
 
-## 📅 Prazo e Entrega
-- O repositório deve ser **público**  
-- Enviar no **Moodle** o link do GitHub dentro do prazo estabelecido  
+ 
